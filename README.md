@@ -34,11 +34,11 @@ I’m Jonathan, a student at CodeCrypto Academy. My focus is on building real-wo
   [Repository Link](URL)
 
 #### Web3  
-- **[Project Name]**  
-  Smart contract in **Solidity** integrated into a dApp for decentralized asset management.  
+- **NFTS Hyperledger**  
+  Pending description.  
   [Repository Link](URL)
 
-- **[Project Name]**  
+- **Marketplace Hyperledger**  
   A comprehensive dApp, developed as a team, covering everything from blockchain integration to front-end deployment.  
   [Repository Link](URL)
 
