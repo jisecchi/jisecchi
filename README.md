@@ -8,16 +8,32 @@ I’m Jonathan, a student at CodeCrypto Academy. My focus is on building real-wo
 
 ## Projects
 
-###### Web2.5 
-- **[Project Name]**  
+#### Web2.5 
+- **Faucet**  
   REST API developed with **Node.js** and **MongoDB**, enhancing backend capabilities.  
   [Repository Link](URL)
 
-- **[Project Name]**  
-  Full-stack application with secure authentication and data management, built in a collaborative environment.  
+- **Faucet Besu**  
+  Pending description.  
+  [Repository Link](URL)
+  
+- **SQL**  
+  Pending description.  
   [Repository Link](URL)
 
-###### Web3  
+- **ETH Basket**  
+  Pending description.   
+  [Repository Link](URL)
+
+- **Crypto**  
+  Pending description.  
+  [Repository Link](URL)
+
+  - **Explorer**  
+  Pending description.  
+  [Repository Link](URL)
+
+#### Web3  
 - **[Project Name]**  
   Smart contract in **Solidity** integrated into a dApp for decentralized asset management.  
   [Repository Link](URL)
