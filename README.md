@@ -1,4 +1,4 @@
-###### About Me
+## About Me
 
 I’m Jonathan, a student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
 
@@ -29,7 +29,7 @@ I’m Jonathan, a student at CodeCrypto Academy. My focus is on building real-wo
   Pending description.  
   [Repository Link](URL)
 
-  - **Explorer**  
+- **Explorer**  
   Pending description.  
   [Repository Link](URL)
 
